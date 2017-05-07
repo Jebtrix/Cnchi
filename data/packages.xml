@@ -73,9 +73,21 @@
 				<pkgname>xorg-apps</pkgname>
 				<pkgname>xorg-fonts</pkgname>
 				<pkgname>xorg-server</pkgname>
-				<pkgname>xorg-server-utils</pkgname>
 				<pkgname>xorg-xinit</pkgname>
 				<pkgname>xorg-xkill</pkgname>
+				<pkgname>xorg-iceauth</pkgname>
+				<pkgname>xorg-sessreg</pkgname>
+				<pkgname>xorg-xcmsdb</pkgname>
+				<pkgname>xorg-xbacklight</pkgname>
+				<pkgname>xorg-xgamma</pkgname>
+				<pkgname>xorg-xhost</pkgname>
+				<pkgname>xorg-xinput</pkgname>
+				<pkgname>xorg-xmodmap</pkgname>
+				<pkgname>xorg-xrandr</pkgname>
+				<pkgname>xorg-xrdb</pkgname>
+				<pkgname>xorg-xrefresh</pkgname>
+				<pkgname>xorg-xset</pkgname>
+				<pkgname>xorg-xsetroot</pkgname>
 			</packages>
 		</edition>
 
